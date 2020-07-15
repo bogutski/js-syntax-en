@@ -16,5 +16,19 @@ In this lesson we’ll learn what a “sandbox” is, using **jsbin.com** as an 
 11.	To leave a comment type **//** at the beginning of the line.
 12.	Place your code within /* ... */ signs to comment out a few lines.	
 
+##### Self-check Task #2
+* Open the link and complete the task:
+https://jsbin.com/vovosucohu/edit?js,console
+
+##### Recommended videos
+- https://youtu.be/BY1GNFrofrM Why you should learn programming
+- https://youtu.be/haoTFLjysjk Steve Jobs’s Speech
+- https://youtu.be/xMYg_GFZFs0 8 Mistakes in learning JavaScript
+
+
+##### Recommended articles
+- https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/ A Modern Introduction to Programming
+- https://javascript.info/ The Modern JavaScript Tutorial
+
 
 
