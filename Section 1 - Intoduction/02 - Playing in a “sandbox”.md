@@ -30,5 +30,18 @@ https://jsbin.com/vovosucohu/edit?js,console
 - https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/ A Modern Introduction to Programming
 - https://javascript.info/ The Modern JavaScript Tutorial
 
+You see a green bulb icon. These are practical tasks that you have to complete right here.
+
+Everything works very simple. Firstly, you can see description of the task, and there may also be a similar example of what needs to be completed. 
+
+In the field for entering the solution, write your code, then click `Validate solution` button. Your decision will be sent for automatic verification. If all is passed, all tests will be marked green and `Submit solution` button will appear. By clicking on it this solution will be sent as the final version, and you may proceed to the next task.
+
+After successful completion of the test of the lecture, you will get an access to the next one.
+
+Carefully read the instructions and strictly follow the rules of the task. 
+
+Let’s get started!
+
+
 
 
