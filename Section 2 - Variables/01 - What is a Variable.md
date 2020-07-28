@@ -54,3 +54,23 @@ console.log(user);  // console output will be "Alice"
 let isAdult = true;   // value true is assigned to variable isAdult
 console.log(isAdult); // console output will be true
 ```
+You can override variables created with the `let` keyword, that is you can assign a new value to the variable. When you assign a new value to a variable, you do not need to use the `let` keyword.
+
+Example:
+```
+let num = 5;                   // value 5 is assigned to variable num
+console.log(num);              // console output will be 5
+num = num + 4;                 // variable num is increased by 4
+console.log(num);              // console output will be 9
+
+let str = 'Have a nice day!';  // value ‘Have a nice day!’ is assigned to variable str
+str = 'Have a great day!';     // Variable str is changed  
+console.log(str);              // console output will be "Have a great day!"
+
+let areTesters = true;         // value true is assigned to variable areTesters
+areTesters = false;            // Variable areTesters is changed 
+console.log(areTesters);       // console output will be false
+
+let multi = 20;                // value 20 is assigned to variable multi
+multi = multi * 5;             // Variable multi is multiplied by 5
+console.log(multi);            // console output will be 100
