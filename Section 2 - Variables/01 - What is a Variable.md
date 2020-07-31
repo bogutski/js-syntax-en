@@ -74,3 +74,12 @@ console.log(areTesters);       // console output will be false
 let multi = 20;                // value 20 is assigned to variable multi
 multi = multi * 5;             // Variable multi is multiplied by 5
 console.log(multi);            // console output will be 100
+
+```
+#####Self-check Task
+Click the link and complete the self-check task https://jsbin.com/pipecomuwo/edit?js,console
+
+#####We recommend you to read the following articles:
+- 	https://javascript.info/variables
+-   https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#Declarations
+- 	https://youtu.be/bQQ0WCPhkU0
